@@ -6,7 +6,7 @@ body{
 }
 
 .headline{
-	font-size:60 px;
+	font-size:60px;
 	color:#00D0D4;
 	font-weight:bold;
 	text-align:center;
@@ -14,8 +14,8 @@ body{
 }
 
 .loriImage{
-	width:100 px
-	height: 120 px;
+	width:100px;
+	height: 120px;
 	text-align:center;
 	margin: 20px auto;
 }
