@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetic, sans-serif;
+	background-color:#F2E15C;
+}
+
+.headline{
+	font-size:60 px;
+	color:#00D0D4;
+	font-weight:bold;
+	text-align:center;
+	padding:20px;
+}
+
+.loriImage{
+	width:100 px
+	height: 120 px;
+	text-align:center;
+	margin: 20px auto;
+}
+
