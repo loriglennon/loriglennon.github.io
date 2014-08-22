@@ -1,0 +1,47 @@
+body{
+	margin: 10px;
+	padding: 20px;
+	font-family: Helvetic, sans-serif;
+	background-color:#F2E15C;
+}
+
+.headline{
+	font-size:60px;
+	color:#00D0D4;
+	font-weight:bold;
+	text-align:center;
+	padding:20px;
+}
+
+.loriImage{
+	text-align:center;
+	margin: 20px auto;
+}
+
+.lori{
+width: 300px
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+    text-decoration: none;
+}
